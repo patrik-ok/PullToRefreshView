@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PullTo</string>
+    <string name="str_release_refresh">松开刷新</string>
+    <string name="str_pull_refresh">下拉刷新</string>
+    <string name="str_refreshing">正在刷新...</string>
+    <string name="str_release_load">松开加载</string>
+    <string name="str_up_load">上拉加载</string>
+    <string name="str_loading">正在加载...</string>
+</resources>
